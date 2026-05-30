@@ -1,0 +1,6 @@
+{
+  "name": "PikPak",
+  "description": "Production-ready short video social media application with video feed, wallet system, monetization dashboard, direct messaging, user wallets, and admin management console.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
